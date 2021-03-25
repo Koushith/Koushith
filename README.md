@@ -25,19 +25,13 @@ Curating [tinyreact.email](https:///tinyreact.email)
 
 <ul>
 <li>
-  <div>Developer at <a href="https://codesandbox.io">Consenso Labs</a></div>
-  <small>past: design systems at <a href="https://auth0.com">Auth0</a>, frontend architect at <a href="https://practo.com">Practo</a></small>
+  <div>Frontend Engineer at <a href="https://consensolabs.com">Consenso Labs</a></div>
+  <small>past: Associate  at <a href="https://infosys.com">Infosys Linmited</a>, 
 </li>
 <br/>
-<li>
-  <div>Built <a href="https://github.com/siddharthkp/bundlesize">bundlesize</a>, <a href="https://tinyreact.email">tinyreact.email</a></small> and <a href="https://github.com/siddharthkp">more</a></div>
-  <div><small>24M downloads on npm · 10.5K stars on GitHub</div>
-</li>
+
 <br/>
-<li>
-  <div>I give talks about React and Design Systems</div>
-  <small><a href="https://sid.st/talks/">watch past talks<a/></small>
-</li>
+
 <br/>
 </ul>
 
