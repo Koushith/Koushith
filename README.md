@@ -15,6 +15,8 @@ Thinking about components and ways of making them
 
 [ Portex ](https://portex.xyz) -xoxoxox
 
+[Signchain](https://github.com/) - xoxoxox
+
 [xoxo](https://github.com/) - xoxoxox
 
 Curating [tinyreact.email](https:///tinyreact.email)
