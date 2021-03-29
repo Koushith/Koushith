@@ -4,7 +4,7 @@
 
 Hi, I'm Koushith 👋
 
-Thinking about components and ways of making them
+
 
 &nbsp;
 
