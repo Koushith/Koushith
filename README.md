@@ -13,11 +13,11 @@ Thinking about components and ways of making them
 
 **Open source projects:**
 
-[ Portex ](https://portex.xyz) -xoxoxox
+[ Portex ](https://portex.xyz) - Exchange your portfolio confidentially with other users without exposing it to any intermediaries.
 
-[Signchain](https://github.com/) - xoxoxox
+[Signchain](https://github.com/) - A platform that creates and manages tamperproof digitally signed documents using smart contracts, DIDs, and decentralized storage.
 
-[xoxo](https://github.com/) - xoxoxox
+[Periple](https://github.com/periple) - A Personal Journaling app.
 
 
 
@@ -28,13 +28,21 @@ Thinking about components and ways of making them
 <ul>
 <li>
   <div>Frontend Engineer at <a href="https://consensolabs.com">Consenso Labs</a></div>
-  <small>past: Associate  at <a href="https://infosys.com">Infosys Linmited</a>, 
+  <small>past: Associate  at <a href="https://infosys.com">Infosys Limited</a>, 
+</li>
+<br/>
+  
+  **Currently Learning:**
+
+<ul>
+<li>
+  <div>Node/Express and MongoDB</a></div>
+
 </li>
 <br/>
 
-<br/>
 
-<br/>
+
 </ul>
 
 <br/>
