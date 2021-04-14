@@ -8,9 +8,6 @@ Thinking about components and ways of making them
 
 &nbsp;
 
-
-&nbsp;
-
 **Open source projects:**
 
 [ Portex ](https://portex.xyz) - Exchange your portfolio confidentially with other users without exposing it to any intermediaries.
