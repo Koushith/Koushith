@@ -29,16 +29,7 @@ Thinking about components and ways of making them.
 </li>
 <br/>
   
-  <h3 align="center">You can find me building away with</h3>
-<p align="center">
-<img height="30" src="https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E"></a>
-<img height="30" src="https://img.shields.io/badge/Python-323330?style=for-the-badge&logo=python&logoColor=3776AB"></a>
-<img height="30" src="https://img.shields.io/badge/Node.js-323330?style=for-the-badge&logo=node.js&logoColor=43853D"></a>
-<img height="30" src="https://img.shields.io/badge/Express.js-323330?style=for-the-badge"></a>
-<img height="30" src="https://img.shields.io/badge/React-323330?style=for-the-badge&logo=react&logoColor=61DAFB"></a>
-<img height="30" src="https://img.shields.io/badge/Redux-323330?style=for-the-badge&logo=redux&logoColor=593D88"></a>
-</p>
-  
+
   **Currently Learning:**
 
 <ul>
@@ -51,6 +42,11 @@ Thinking about components and ways of making them.
 
 
 </ul>
+[Take me to your website](http://www.yathish.me/portfolio/)
+
+![Koushith's github stats](https://github-readme-stats-mu-weld.vercel.app/api?username=koushith&show_icons=true&theme=radical)
+![Koushith's lang stats](https://github-readme-stats-mu-weld.vercel.app/api/top-langs/?koushith=yathishram&show_icons=true&theme=radical)
+
 
 <br/>
 
