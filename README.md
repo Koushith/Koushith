@@ -42,10 +42,10 @@ Thinking about components and ways of making them.
 
 
 </ul>
-[Take me to your website](http://www.koushith.in/)
+(http://www.koushith.in/)
 
-![Koushith's github stats](https://github-readme-stats-mu-weld.vercel.app/api?username=koushith&show_icons=true&theme=radical)
-![Koushith's lang stats](https://github-readme-stats-mu-weld.vercel.app/api/top-langs/?username=koushith&show_icons=true&theme=radical)
+![Koushith's github stats](https://github-readme-stats-mu-weld.vercel.app/api?username=koushith&show_icons=true)
+![Koushith's lang stats](https://github-readme-stats-mu-weld.vercel.app/api/top-langs/?username=koushith&show_icons=true)
 
 
 <br/>
