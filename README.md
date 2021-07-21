@@ -44,15 +44,13 @@ Thinking about components and ways of making them.
 </ul>
 (http://www.koushith.in/)
 
-![Koushith's github stats](https://github-readme-stats-mu-weld.vercel.app/api?username=koushith&show_icons=true)
-![Koushith's lang stats](https://github-readme-stats-mu-weld.vercel.app/api/top-langs/?username=koushith&show_icons=true)
 
 
 <br/>
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=koushith&show_icons=true&locale=en&layout=compact" alt="ghana7989" /></p>
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=koushith&show_icons=true&locale=en&layout=compact" alt="koushith" /></p>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=koushith&show_icons=true&locale=en" alt="ghana7989" /></p>
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=koushith&show_icons=true&locale=en" alt="koushith" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=koushith&" alt="ghana7989" /></p>
 
