@@ -28,22 +28,12 @@ I'm focused on building exciting products such as Safient and Signchain along wi
   
 **Open source and Hackathon projects:**
 
-Hackathon Projects:
-
-DoraHacks - Safient - bagged first place and one among the top 3 projects.
-
-EthDenver - Portex - bagged second place.
-EtHOnline - Signchain - bagged second place.
-
 
 [ Portex ](https://portex.xyz) - Exchange your portfolio confidentially with other users without exposing it to any intermediaries.
 
 [Signchain](https://github.com/) - A platform that creates and manages tamperproof digitally signed documents using smart contracts, DIDs, and decentralized storage.
 
 [Periple](https://github.com/periple) - A Personal Journaling app.
-
-
-
 
 
 
