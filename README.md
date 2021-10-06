@@ -8,7 +8,15 @@ Thinking about components and ways of making them.
 
 &nbsp;
 
-**Open source projects:**
+**Open source and Hackathon projects:**
+
+Hackathon Projects:
+
+DoraHacks - Safient - bagged first place and one among the top 3 projects.
+
+EthDenver - Portex - bagged second place.
+EtHOnline - Signchain - bagged second place.
+
 
 [ Portex ](https://portex.xyz) - Exchange your portfolio confidentially with other users without exposing it to any intermediaries.
 
@@ -22,9 +30,20 @@ Thinking about components and ways of making them.
 
 **About Me:**
 
+Currently- Product and Engineering @consensolabs
+
+I'm focused on building exciting products such as Safient and Signchain along with a strong team at Consenso Labs to solve the critical problems in both Web 3.0 and Web 2.0.
+
+Currently working on
+
+Safient - Trustless crypto asset Safe and Inheritance Protocol.
+
+- https://safient.io/
+
+Role : UI and Frontend.
+
 <ul>
 <li>
-  <div>Frontend Engineer at <a href="https://consensolabs.com">Consenso Labs</a></div>
   <small>past: Associate  at <a href="https://infosys.com">Infosys Limited</a>, 
 </li>
 <br/>
@@ -38,7 +57,6 @@ Thinking about components and ways of making them.
 
 </li>
 <br/>
-
 
 
 </ul>
