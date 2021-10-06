@@ -13,7 +13,6 @@ Thinking about components and ways of making them.
 Hackathon Projects:
 
 DoraHacks - Safient - bagged first place and one among the top 3 projects.
-
 EthDenver - Portex - bagged second place.
 EtHOnline - Signchain - bagged second place.
 
@@ -30,9 +29,9 @@ EtHOnline - Signchain - bagged second place.
 
 **About Me:**
 
-Currently- Product and Engineering @consensolabs
+Presemtly- Product and Engineering @consensolabs
 
-I'm focused on building exciting products such as Safient and Signchain along with a strong team at Consenso Labs to solve the critical problems in both Web 3.0 and Web 2.0.
+I'm focused on building exciting products such as Safient and Signchain along with a strong team at Consenso Labs to solve the critical problems in  Web 3.0.
 
 Currently working on
 
