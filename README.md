@@ -13,6 +13,7 @@ Thinking about components and ways of making them.
 Hackathon Projects:
 
 DoraHacks - Safient - bagged first place and one among the top 3 projects.
+
 EthDenver - Portex - bagged second place.
 EtHOnline - Signchain - bagged second place.
 
@@ -29,17 +30,9 @@ EtHOnline - Signchain - bagged second place.
 
 **About Me:**
 
-Presemtly- Product and Engineering @consensolabs
+Presently- Product and Engineering @consensolabs
 
 I'm focused on building exciting products such as Safient and Signchain along with a strong team at Consenso Labs to solve the critical problems in  Web 3.0.
-
-Currently working on
-
-Safient - Trustless crypto asset Safe and Inheritance Protocol.
-
-- https://safient.io/
-
-Role : UI and Frontend.
 
 <ul>
 <li>
@@ -48,13 +41,7 @@ Role : UI and Frontend.
 <br/>
   
 
-  **Currently Learning:**
-
-<ul>
-<li>
-  <div>Node/Express and MongoDB</a></div>
-
-</li>
+ 
 <br/>
 
 
