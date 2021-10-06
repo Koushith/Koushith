@@ -8,6 +8,24 @@ Thinking about components and ways of making them.
 
 &nbsp;
 
+&nbsp;
+
+**About Me:**
+
+Presently- Product and Engineering @consensolabs
+
+I'm focused on building exciting products such as Safient and Signchain along with a strong team at Consenso Labs to solve the critical problems in  Web 3.0.
+
+<ul>
+<li>
+  <small>past: Associate  at <a href="https://infosys.com">Infosys Limited</a>, 
+</li>
+<br/>
+  
+
+ 
+<br/>
+  
 **Open source and Hackathon projects:**
 
 Hackathon Projects:
@@ -26,23 +44,7 @@ EtHOnline - Signchain - bagged second place.
 
 
 
-&nbsp;
 
-**About Me:**
-
-Presently- Product and Engineering @consensolabs
-
-I'm focused on building exciting products such as Safient and Signchain along with a strong team at Consenso Labs to solve the critical problems in  Web 3.0.
-
-<ul>
-<li>
-  <small>past: Associate  at <a href="https://infosys.com">Infosys Limited</a>, 
-</li>
-<br/>
-  
-
- 
-<br/>
 
 
 </ul>
