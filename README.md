@@ -4,11 +4,10 @@
 
 Hi, I'm Koushith 👋
 
-Thinking about components and ways of making them.
+Thinking about components and ways of making them. I like making things, I'm a fairly curious person.
 
 &nbsp;
 
-&nbsp;
 
 **About Me:**
 
