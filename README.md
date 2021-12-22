@@ -53,7 +53,7 @@ TBU.
 
 
 <br/>
-<div style='display:flex'><p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=koushith&show_icons=true&locale=en&layout=compact" alt="koushith" /></p>
+<div style='display:flex'>
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=koushith&show_icons=true&locale=en" alt="koushith" /></p>
 
