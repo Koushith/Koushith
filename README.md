@@ -9,7 +9,7 @@ Thinking about components and ways of making them.
 
 ### About me
 
-Presently- Product and Engineering @consensolabs
+Presently- Product and Engineering @consensolabs.
 
   <small>Past: Associate  at <a href="https://infosys.com">Infosys Limited</a>, 
 
@@ -43,7 +43,7 @@ Safient - Trustless crypto-asset Safe and Inheritance Protocol.
 
 - DoraHacks - [Safient](https://safient.io/) - POC for Trustless crypto-asset Safe and Inheritance Protocol.  bagged first place and one among the top 3 projects.
 - EthDenver - [ Portex ](https://portex.xyz) - Exchange your portfolio confidentially with other users without exposing it to any intermediaries. bagged second place.
-- EtHOnline - [Signchain](https://github.com/) - A platform that creates and manages tamperproof digitally signed documents using smart contracts, DIDs, and decentralized storage. bagged second place.
+- EtHOnline - [Signchain](https://github.com/signchain) - A platform that creates and manages tamperproof digitally signed documents using smart contracts, DIDs, and decentralized storage. bagged second place.
 
 TBU.
  
