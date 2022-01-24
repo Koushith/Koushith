@@ -18,8 +18,7 @@ Leading the Design and Frontend Engineering of the platform as a sole Front-end 
 
 I am also responsible for maintaining Consenso Lab's Design System for Web. The system is still in progress as we keep iterating.
 
-currently, I'm focused on building exciting products such as Safient and Signchain along with a strong team at Consenso Labs to solve the critical problems in both Web 3.0 and Web 2.0.
-
+currently, I'm focused on building exciting products such as Safient and Signchain along with a strong team at Consenso Labs to solve the critical problems in Web 3.0.
 ### Skills and Tech
 
 - JavaScript / TypeScript
@@ -32,12 +31,6 @@ currently, I'm focused on building exciting products such as Safient and Signcha
 - UI/UX Knowledge
 - Figma - my goto design tool.
 
-
-### Currently working on 
-
-Safient - Trustless crypto-asset Safe and Inheritance Protocol.
-
-- https://safient.io/
 
 # Open source and Hackathon projects:: 
 
