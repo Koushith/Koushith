@@ -14,12 +14,10 @@ Presently- Product and Engineering @consensolabs.
   <small>Past: Associate  at <a href="https://infosys.com">Infosys Limited</a>, 
 
   
-Leading the Design and Frontend Engineering of the platform as a sole Front-end engineer. Worked extensively on designing UI, prototyping, and architecting the application.
+Leading the Design and Frontend Engineering of the platform as a sole Front-end Engineer. Worked extensively on designing UI, prototyping, and architecting the application.
 
 I am also responsible for maintaining Consenso Lab's Design System for Web. The system is still in progress as we keep iterating.
 
-currently, focused on building exciting products such as Safient and Signchain along with a strong team at Consenso Labs to solve the critical problems in Web 3.0.
-  
 ### Skills and Tech
 
 - JavaScript / TypeScript
