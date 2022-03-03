@@ -33,6 +33,7 @@ I am also responsible for maintaining Consenso Lab's Design System for Web. The 
 
 # Open source and Hackathon projects:: 
 
+- EthDenver2022 - [Safient Wallet] - wallet Application- TBU
 - DoraHacks - [Safient](https://safient.io/) - POC for Trustless crypto-asset Safe and Inheritance Protocol.  bagged first place and one among the top 3 projects.
 - EthDenver - [ Portex ](https://portex.xyz) - Exchange your portfolio confidentially with other users without exposing it to any intermediaries. bagged second place.
 - EtHOnline - [Signchain](https://github.com/signchain) - A platform that creates and manages tamperproof digitally signed documents using smart contracts, DIDs, and decentralized storage. bagged second place..
