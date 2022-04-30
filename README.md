@@ -9,7 +9,7 @@ Thinking about components and ways of making them.
 
 ### About me
 
-Presently- Product and Engineering @consensolabs.
+Present- Product and Engineering @consensolabs.
 
   <small>Past: Associate  at <a href="https://infosys.com">Infosys Limited</a>, 
 
