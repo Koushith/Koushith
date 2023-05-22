@@ -13,22 +13,6 @@ Present- Product and Engineering @consensolabs.
 
   <small>Past: Associate  at <a href="https://infosys.com">Infosys Limited</a>, 
 
-  
-Leading the Design and Frontend Engineering of the platform as a sole Front-end Engineer. Worked extensively on designing UI, prototyping, and architecting the application.
-
-
-
-### Skills and Tech
-
-- JavaScript / TypeScript
-- React/NextJS
-- Node/Express
-
-
-### Design
-
-- UI/UX Knowledge
-- Figma - my goto design tool.
 
 
 # Open source and Hackathon projects:: 
