@@ -1,4 +1,4 @@
-![britney.gif](https://raw.githubusercontent.com/siddharthkp/siddharthkp/main/britney.gif)
+![britney.gif](https://raw.githubusercontent.com/Koushith/Koushith/master/britney.gif)
 
 ### Hey, I'm Koushith 👋
 
