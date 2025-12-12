@@ -6,10 +6,6 @@ Senior Software Engineer at **[Reclaim Protocol](https://reclaimprotocol.org)** 
 
 I bridge design and engineering to build products that actually make sense. Currently working on privacy-preserving SDKs and developer tools.
 
-🔭 **Currently:** Building Web SDKs & DevTools at Reclaim Protocol  
-🛠️ **Previously:** Frontend Engineer & UI Designer at Consenso Labs  
-🌐 **Portfolio:** [koushith.in](https://koushith.in)
-
 ---
 
 #### Tech Stack
