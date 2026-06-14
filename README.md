@@ -2,9 +2,11 @@
 
 ### Hey, I'm Koushith 👋
 
-Senior Software Engineer at **[Reclaim Protocol](https://reclaimprotocol.org)**, building privacy-preserving SDKs and developer tools with zkTLS.
+Senior Software Engineer at **[Reclaim Protocol](https://reclaimprotocol.org)**, building privacy-preserving SDKs and developer tools.
 
 I like software that respects the people who use it: local-first, private by default, and pleasant to look at. Most of my time goes to the seam where design meets engineering, turning rough ideas into products that feel obvious in hindsight.
+
+I'm stack-agnostic. I reach for whatever language or framework fits the problem, and pick up whatever I'm missing along the way. The product matters more than the tool.
 
 ---
 
@@ -18,23 +20,16 @@ A markdown notes app that stays out of your way. Your notes are plain files on y
 
 ---
 
-#### 🧰 Tools I reach for
-
-```
-TypeScript · React · Next.js · React Native · Electron · Node.js · Tailwind · Web3 / zkTLS
-```
-
----
-
 #### 🛠️ Things I have built
 
 | Project | What it is |
 |---------|------------|
 | [SideNotes](https://github.com/Koushith/side-deck) | Local-first, private markdown notes for your desktop |
+| [PortTray](https://github.com/Koushith/porttray) | Tiny macOS menu bar app to spot open ports and kill the process holding one |
 | [QuiteInbox](https://github.com/Koushith/quite-inbox) | Privacy-first Gmail subscription manager |
-| [ProviderHunt](https://github.com/Koushith/Providers-Hunt) | Gamified zkTLS provider testing platform |
+| [Vortex](https://github.com/Koushith/vortex) | Spatial browser extension, browse the web on an infinite canvas |
 | [Pentax17](https://github.com/Koushith/Pentax17-Mobile-App) | React Native film camera emulation app |
-| [CryptoTally](https://github.com/Koushith/CryptoTally) | Crypto portfolio tracker |
+| [CryptoTally](https://www.cryptotally.xyz/) | Crypto accounting and portfolio tracker |
 
 ---
 
