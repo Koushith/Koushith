@@ -2,32 +2,45 @@
 
 ### Hey, I'm Koushith 👋
 
-Senior Software Engineer at **[Reclaim Protocol](https://reclaimprotocol.org)** — obsessed with crafting clean, user-centric experiences.
+Senior Software Engineer at **[Reclaim Protocol](https://reclaimprotocol.org)**, building privacy-preserving SDKs and developer tools with zkTLS.
 
-I bridge design and engineering to build products that actually make sense. Currently working on privacy-preserving SDKs and developer tools.
-
----
-
-#### Tech Stack
-
-```
-React • TypeScript • Next.js • React Native • Node.js • Tailwind CSS • Web3
-```
+I like software that respects the people who use it: local-first, private by default, and pleasant to look at. Most of my time goes to the seam where design meets engineering, turning rough ideas into products that feel obvious in hindsight.
 
 ---
 
-#### Featured Projects
+#### 🚀 Currently building
 
-| Project | Description |
-|---------|-------------|
+### [SideNotes](https://sidenotes.me) · a calm, local-first second brain
+
+A markdown notes app that stays out of your way. Your notes are plain files on your own disk, never locked in a cloud. It comes with voice dictation, built-in Excalidraw sketches, live Mermaid diagrams, one-click Git backup, and an optional AI assistant you point at your own model.
+
+[`Website`](https://sidenotes.me) &nbsp;·&nbsp; [`Code`](https://github.com/Koushith/side-deck) &nbsp;·&nbsp; [`Download`](https://github.com/Koushith/side-deck/releases/latest)
+
+---
+
+#### 🧰 Tools I reach for
+
+```
+TypeScript · React · Next.js · React Native · Electron · Node.js · Tailwind · Web3 / zkTLS
+```
+
+---
+
+#### 🛠️ Things I have built
+
+| Project | What it is |
+|---------|------------|
+| [SideNotes](https://github.com/Koushith/side-deck) | Local-first, private markdown notes for your desktop |
 | [QuiteInbox](https://github.com/Koushith/quite-inbox) | Privacy-first Gmail subscription manager |
-| [Pentax17](https://github.com/Koushith/Pentax17-Mobile-App) | React Native film camera emulation app |
 | [ProviderHunt](https://github.com/Koushith/Providers-Hunt) | Gamified zkTLS provider testing platform |
+| [Pentax17](https://github.com/Koushith/Pentax17-Mobile-App) | React Native film camera emulation app |
 | [CryptoTally](https://github.com/Koushith/CryptoTally) | Crypto portfolio tracker |
 
 ---
 
-#### Let's Connect
+#### 💬 Let's build something
+
+I love talking to people who care about local-first software, privacy, thoughtful UX, and developer tools. If that sounds like you, say hi.
 
 [![Twitter](https://img.shields.io/badge/-@KoushithAmin-1DA1F2?style=flat&logo=twitter&logoColor=white)](https://twitter.com/KoushithAmin)
 [![LinkedIn](https://img.shields.io/badge/-Koushith%20Amin-0A66C2?style=flat&logo=linkedin&logoColor=white)](https://linkedin.com/in/koushith-amin-663787146)
@@ -36,5 +49,6 @@ React • TypeScript • Next.js • React Native • Node.js • Tailwind CSS �
 ---
 
 <p>
-<img src="https://github-readme-stats.vercel.app/api?username=koushith&show_icons=true&theme=default&hide_border=true" alt="GitHub Stats" />
+<img height="160" src="https://github-readme-stats.vercel.app/api?username=koushith&show_icons=true&theme=default&hide_border=true&count_private=true" alt="GitHub Stats" />
+<img height="160" src="https://github-readme-stats.vercel.app/api/top-langs/?username=koushith&layout=compact&theme=default&hide_border=true" alt="Top Languages" />
 </p>
