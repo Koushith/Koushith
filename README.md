@@ -40,10 +40,3 @@ I love talking to people who care about local-first software, privacy, thoughtfu
 [![Twitter](https://img.shields.io/badge/-@KoushithAmin-1DA1F2?style=flat&logo=twitter&logoColor=white)](https://twitter.com/KoushithAmin)
 [![LinkedIn](https://img.shields.io/badge/-Koushith%20Amin-0A66C2?style=flat&logo=linkedin&logoColor=white)](https://linkedin.com/in/koushith-amin-663787146)
 [![Email](https://img.shields.io/badge/-koushith97@gmail.com-EA4335?style=flat&logo=gmail&logoColor=white)](mailto:koushith97@gmail.com)
-
----
-
-<p>
-<img height="160" src="https://github-readme-stats.vercel.app/api?username=koushith&show_icons=true&theme=default&hide_border=true&count_private=true" alt="GitHub Stats" />
-<img height="160" src="https://github-readme-stats.vercel.app/api/top-langs/?username=koushith&layout=compact&theme=default&hide_border=true" alt="Top Languages" />
-</p>
