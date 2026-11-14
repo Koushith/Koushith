@@ -2,7 +2,7 @@
 
 ### Hey, I'm Koushith 👋
 
-Senior Software Engineer at **[Reclaim Protocol](https://reclaimprotocol.org)**, building privacy-preserving SDKs and developer tools.
+I work at **[Consuma](https://consuma.ai)**, a rapid consumer research platform that turns millions of public conversations into evidence-backed reports in minutes. I work across the whole thing: the product, the AI agents that run research end to end, the data and infra underneath, and the core engineering that holds it all together. Before this I was a Senior Software Engineer at **[Reclaim Protocol](https://reclaimprotocol.org)** (YC W21), building privacy-preserving SDKs and developer tools.
 
 I like software that respects the people who use it: local-first, private by default, and pleasant to look at. Most of my time goes to the seam where design meets engineering, turning rough ideas into products that feel obvious in hindsight.
 
