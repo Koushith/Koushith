@@ -2,7 +2,7 @@
 
 ### Hey, I'm Koushith 👋
 
-I'm a Software Engineer at **[Consuma](https://consuma.ai)**, a rapid consumer research platform that turns millions of public conversations into evidence-backed reports in minutes. I work across the whole thing: the product, the AI agents that run research end to end, the data and infra underneath, and the core engineering that holds it all together. Before this I was a Senior Software Engineer at **[Reclaim Protocol](https://reclaimprotocol.org)** (YC W21), building privacy-preserving SDKs and developer tools.
+I'm a Senior Software Engineer at **[Consuma](https://consuma.ai)**, a rapid consumer research platform that turns millions of public conversations into evidence-backed reports in minutes. I work across the whole thing: the product, the AI agents that run research end to end, the data and infra underneath, and the core engineering that holds it all together. Before this I was a Senior Software Engineer at **[Reclaim Protocol](https://reclaimprotocol.org)** (YC W21), building privacy-preserving SDKs and developer tools.
 
 I like software that respects the people who use it: local-first, private by default, and pleasant to look at. Most of my time goes to the seam where design meets engineering, turning rough ideas into products that feel obvious in hindsight.
 
@@ -38,5 +38,5 @@ A markdown notes app that stays out of your way. Your notes are plain files on y
 I love talking to people who care about local-first software, privacy, thoughtful UX, and developer tools. If that sounds like you, say hi.
 
 [![Twitter](https://img.shields.io/badge/-@KoushithAmin-1DA1F2?style=flat&logo=twitter&logoColor=white)](https://twitter.com/KoushithAmin)
-[![LinkedIn](https://img.shields.io/badge/-Koushith%20Amin-0A66C2?style=flat&logo=linkedin&logoColor=white)](https://linkedin.com/in/koushith-amin-663787146)
+[![LinkedIn](https://img.shields.io/badge/-Koushith%20Amin-0A66C2?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/koushith)
 [![Email](https://img.shields.io/badge/-koushith97@gmail.com-EA4335?style=flat&logo=gmail&logoColor=white)](mailto:koushith97@gmail.com)
